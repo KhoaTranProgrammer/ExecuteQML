@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyText.qml</file>
+        <file>CreateQMLObject.js</file>
+    </qresource>
+</RCC>
