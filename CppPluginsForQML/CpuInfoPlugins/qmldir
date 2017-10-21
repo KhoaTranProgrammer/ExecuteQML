@@ -1,0 +1,2 @@
+module CpuInfo
+plugin CpuInfoPlugins
